@@ -6,5 +6,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## Staging Notes
 It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
 
-## How TO Use This Repo
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla commodo condimentum purus, nec finibus leo. Curabitur molestie sed sapien ac ultricies. In a arcu eget libero ultrices tempor eu vitae tortor. Curabitur at diam eget nulla tempus porta scelerisque nec nisl. Mauris id ligula facilisis, imperdiet sem sit amet, aliquet ante. Nam tempus lobortis risus, vitae sollicitudin diam ultrices sed.
+## How To Use This Repo
+
+
+## Some new stuff in the README
